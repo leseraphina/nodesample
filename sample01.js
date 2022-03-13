@@ -24,5 +24,3 @@ const banana={
  console.log(grape.getCall());
  console.log(apple.getCall());
  console.log(banana.getCall());
-
- 
